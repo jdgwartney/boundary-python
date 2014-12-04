@@ -23,6 +23,11 @@ Tools
      $ pip install statsd
      ```
 
+### Running the script
+1. Run the following command
+     ```bash
+     $ src/main/python/send-statsd.py
+     ```
 
 
 
